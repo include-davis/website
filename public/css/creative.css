@@ -14,7 +14,7 @@ header, header .header-content {
     z-index: 199;
 }
 body, html {
-    position:relative;
+    display: flex;
     height: 100%;
     width: 100%}
 body {
