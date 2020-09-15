@@ -14,15 +14,9 @@ header, header .header-content {
     z-index: 199;
 }
 body, html {
-    display: flex;
-    flex-direction: column;
     height: 100%;
     width: 100%
 }
-.content{
-    flex: 1 0 auto;
-}
-
 body {
     font-family: 'Open Sans', Merriweather, 'Helvetica Neue', Arial, sans-serif;
     webkit-tap-highlight-color: #222;
