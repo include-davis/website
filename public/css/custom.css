@@ -109,7 +109,7 @@ animation-duration:2s;
 
 .about-hr
 {
-  color: #d590ff;
+  color: #7B1DFF;
 }
 
 .about-text
@@ -192,4 +192,8 @@ animation-duration:2s;
   font-size: 13px;
   font-weight: lighter;
   text-decoration: none;
+}
+
+.nav-color{
+  color: #7B1DFF;
 }
