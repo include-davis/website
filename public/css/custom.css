@@ -109,7 +109,7 @@ animation-duration:2s;
 
 .about-hr
 {
-  color: #7B1DFF;
+  color: #7B1DFF !important;
 }
 
 .about-text
@@ -195,5 +195,5 @@ animation-duration:2s;
 }
 
 .nav-color{
-  color: #7B1DFF;
+  color: #7B1DFF !important;
 }
