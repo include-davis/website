@@ -144,7 +144,7 @@ header {
     -o-background-size: cover;
     background-position: center;
     background-image: url(../img/NewDesign_Adrienne.png);
-    background-size: 900px 800px;
+    /* background-size: 900px 800px; */
     color: #fff;
     z-index: 199;
 }
