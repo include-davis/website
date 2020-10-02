@@ -146,6 +146,7 @@ header {
     background-image: url(../img/headernew.png);
     background-repeat: no-repeat;
     background-blend-mode: multiply;
+    min-height: 100%;
     color: #fff;
     z-index: 199;
 }
