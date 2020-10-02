@@ -144,7 +144,8 @@ header {
     -o-background-size: cover;
     background-position: center;
     background-image: url(../img/headernew.png);
-    /* background-size: 900px 800px; */
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
     color: #fff;
     z-index: 199;
 }
