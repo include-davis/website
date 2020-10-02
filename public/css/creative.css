@@ -144,9 +144,8 @@ header {
     background-position: center;
     background-image: url(../img/headernew.png);
     background-repeat: no-repeat;
-    box-shadow:inset 0 0 0 2000px rgba(255, 0, 150, 0.3);
+    box-shadow:inset 0 0 0 2000px rgba(255, 255, 255, 0.3);
     min-height: 100%;
-    color: #fff;
     z-index: 199;
 }
 header .header-content {

@@ -1,6 +1,7 @@
 #homeHeading
 {
-	font-size: 110px;
+  font-size: 110px;
+  color: #444
 }
 
 .navbar-fixed-top.scrolled {
@@ -109,7 +110,7 @@ animation-duration:2s;
 
 .about-hr
 {
-  color: #7B1DFF !important;
+  color: rgb(87, 17, 185) !important;
 }
 
 .about-text
