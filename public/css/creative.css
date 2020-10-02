@@ -179,10 +179,10 @@ header .header-content .header-content-inner p {
     header {
         background-size:100%;
         min-height:100%;
-        background-position: center 75%;
+        background-position: center 85%;
     }
     header .header-content{
-        top: 20%;
+        top: 25%;
     }
     #homeHeading {
         font-size: 60px;
