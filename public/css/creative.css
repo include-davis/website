@@ -185,7 +185,10 @@ header .header-content .header-content-inner p {
         top: 25%;
     }
     #homeHeading {
-        font-size: 70px;
+        font-size: 60px;
+    }
+    #typed {
+        font-size: 30px !important;
     }
 }
 header .header-content {
