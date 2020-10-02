@@ -139,10 +139,13 @@ aside {
 }
 header {
     min-height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-position: center;
     background-image: url(../img/NewDesign_Adrienne.png);
-    background-size: 1800px 900px;
-    color: #FFF;
+    background-size: 1200px 1000px;
+    color: #fff;
     z-index: 199;
 }
 header .header-content {
