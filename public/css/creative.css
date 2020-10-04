@@ -25,7 +25,7 @@ body {
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-    border-color: #7b1dff;
+    border-color: #5100c4;
     border-width: 3px;
     max-width: 50px;
 }
@@ -34,10 +34,10 @@ hr.light {
 }
 a {
     transition: all .35s;
-    color: #7b1dff;
+    color: #5100c4;
 }
 a:focus, a:hover {
-    color: #7b1dff;
+    color: #5100c4;
 }
 p {
     font-size: 16px;
@@ -45,7 +45,7 @@ p {
     margin-bottom: 20px;
 }
 .bg-primary {
-    background-color: #7b1dff;
+    background-color: #5100c4;
 }
 .bg-dark {
     background-color: #222;
@@ -73,7 +73,7 @@ aside {
     -moz-transition: all .35s;
 }
 .navbar-default .navbar-header .navbar-brand {
-    color: #7b1dff;
+    color: #5100c4;
     font-weight: 700;
     /*text-transform: uppercase;*/
 }
@@ -93,10 +93,10 @@ aside {
     color: #222;
 }
 .navbar-default .nav>li>a:focus:hover, .navbar-default .nav>li>a:hover {
-    color: #7b1dff;
+    color: #5100c4;
 }
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
-    color: #7b1dff!important;
+    color: #5100c4!important;
     background-color: transparent;
 }
 .navbar-default .nav>li.active>a:focus:hover, .navbar-default .nav>li.active>a:hover {
@@ -124,7 +124,7 @@ aside {
     border-color: rgba(34, 34, 34, .05);
 }
 .navbar-default.affix .navbar-header .navbar-brand {
-    color: #7b1dff;
+    color: #5100c4;
     font-size: 14px;
 }
 .navbar-default.affix .navbar-header .navbar-brand:focus, .navbar-default.affix .navbar-header .navbar-brand:hover {
@@ -134,7 +134,7 @@ aside {
     color: #222;
 }
 .navbar-default.affix .nav>li>a:focus:hover, .navbar-default.affix .nav>li>a:hover {
-    color: #7b1dff;
+    color: #5100c4;
 }
 }
 header {
@@ -238,7 +238,7 @@ header .header-content .header-content-inner p {
     color: #fff;
     opacity: 0;
     display: block;
-    background: #7b1dff;
+    background: #5100c4;
     position: absolute;
     bottom: 0;
     text-align: center;
@@ -286,7 +286,7 @@ header .header-content .header-content-inner p {
     margin: 0 auto 20px;
 }
 .text-primary {
-    color: #7b1dff;
+    color: #5100c4;
 }
 .no-gutter>[class*=col-] {
     padding-right: 0;
@@ -313,23 +313,23 @@ header .header-content .header-content-inner p {
 }
 .btn-primary {
     color: #fff;
-    background-color: #7b1dff;
-    border-color: #7b1dff;
+    background-color: #5100c4;
+    border-color: #5100c4;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
 }
 .btn-primary.active, .btn-primary.focus, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open>.dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #7b1dff;
-    border-color: #7b1dff;
+    background-color: #5100c4;
+    border-color: #5100c4;
 }
 .btn-primary.disabled, .btn-primary.disabled.active, .btn-primary.disabled.focus, .btn-primary.disabled:active, .btn-primary.disabled:focus, .btn-primary.disabled:hover, .btn-primary[disabled], .btn-primary[disabled].active, .btn-primary[disabled].focus, .btn-primary[disabled]:active, .btn-primary[disabled]:focus, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary.active, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary:hover {
-    background-color: #7b1dff;
-    border-color: #7b1dff;
+    background-color: #5100c4;
+    border-color: #5100c4;
 }
 .btn-primary .badge {
-    color: #7b1dff;
+    color: #5100c4;
     background-color: #fff;
 }
 .btn {
