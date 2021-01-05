@@ -198,6 +198,8 @@ animation-duration:2s;
 .nav-color{
   color:  #5100c4 !important;
 }
-iframe{
-  width:80vw;
+iframe {
+  width: 100%;
+  margin: auto;
+  height: 60vh;
 }
